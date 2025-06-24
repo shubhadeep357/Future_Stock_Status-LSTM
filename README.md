@@ -1,7 +1,7 @@
 <h1 align="center">The Future of Stocks</h1>
 
 <p align="center">
-  <img src="image_stock.jpeg" alt="Stock Market Prediction" />
+  <img src="image_stock.jpg" alt="Stock Market Prediction" />
 </p>
 
 
